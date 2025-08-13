@@ -223,8 +223,7 @@ footer {
     }
 
     .main-image {
-        max-width: 728px;
-        width: 100%;
+        max-width: 100%;
     }
 
     .text-wrapper {
@@ -232,7 +231,7 @@ footer {
     }
 
     .about-section {
-        padding: 60px 0 50px;
+        padding: 60px 0;
     }
 }
 
